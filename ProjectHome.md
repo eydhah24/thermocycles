@@ -1,0 +1,3 @@
+The script that is developed here is aimed to calculate thermodynamic cycles.
+It is given a set of initial values (pressures, specific volumes, temperatures, etc.) at certain points and/or types of state changes inbetween (isobaric, polytropic, etc.) and an order in which these points are passed during the cycle.
+From this information the script calculates the missing state variables (pressures, specific volumes, temperatures,etc) and the total mass specific work output and efficiency of the thermodynamic cycle process.
